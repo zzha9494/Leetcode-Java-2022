@@ -1,8 +1,7 @@
 public class test {
     public static void main(String[] args) {
-        StringBuilder s = new StringBuilder();
-        s.append('3');
-        s.append('q');
-        s.append('x');
+        Q7_Reverse_Integer a = new Q7_Reverse_Integer();
+        a.reverse(1534236469);
+
     }
 }
